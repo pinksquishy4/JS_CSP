@@ -18,9 +18,12 @@ print("Welcome to my program", name)
 #How do stupid proofing and sanitization relate to each other?
 
 #What is debugging?
+#Debugging is fixing problems in my code
 
 #How do you debug the different types of errors?
-
+#syntax error
+#Logic error
+#run time error
 #Describe what each of the methods below does:
 
 #find()
