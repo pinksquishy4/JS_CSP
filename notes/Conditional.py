@@ -2,7 +2,7 @@
 
 #What puts something inside of the “if” statement?
 #the base piece of a conditional
-num = 12
+num = int(input("Tel me a number:\n"))
 
 if num < 10:
     print(f"{num} is a single digit number")
