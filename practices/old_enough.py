@@ -8,7 +8,7 @@ elif age >=16:
     print("You are old enough to drive!")
 elif age == 15:
     print("You are old enough to get a drivers permit.")
-elif age >= 14:
+elif age >= 4:
     print("You are able to go to school")
 else:
-    print("You are also able to go to school")
+    print("You are too young to do anything")
