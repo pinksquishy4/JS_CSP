@@ -16,6 +16,7 @@ print(f"The hour is: {hour}")
 # for each student, in the row marker got passes down
 #What is iteration
 # 1 itetrator (keep track of loop#)
+#ONE instance of a loop, we iterate by looping something over and over again, our iteration is that peticular instance of a loop.
 
 #What are lists?
   #it allows you to store multiple pieces of information within the same variable
