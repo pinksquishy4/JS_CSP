@@ -53,7 +53,6 @@ int main(void){
    // float rounded = round(num);
    // printf("%.0f\n", rounded);  // Output: 4
    // return 0;
-}
 //What is type casting in C? Provide an example of explicit type casting.
 //Where we detirmine what the data type is and you change that datta type by doing explixet casting
 //printf("8/3 = %f\n", (float)8/3);
