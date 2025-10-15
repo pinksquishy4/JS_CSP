@@ -53,19 +53,25 @@ return 0;
 //you set a paremeter specifically inside the function
 
 //What are arguments and parameters?
-
+//parameters are the placeholders in the function's recipe, and arguments are the actual ingredients you use when you cook it. 
 
 //How do arguments and parameters work together?
+//A parameter is a placeholder for that information, and an argument is the actual piece of information you give.
 
+//How to use parameters and arguments in c
+//// Function declaration with parameters
+//int add(int num1, int num2); 
 
-//How to use parameters and arguments in python
-
-
+// Function definition with parameters
+//int add(int num1, int num2) {
+    //return num1 + num2;
+//}
 //What are return statements?
-
+//When a C program runs a function, it's like asking a mini-computer to do a job. The return statement is how that mini-computer gives the result back to the main program. 
 
 //How do return statements change how you define a function in C?
-
+//when you define a function in C, you specify the type of value it will return (like int for intergers), and you use the return statement to send that value back to where the function was called.
 
 
 //What do return statements do with the information?
+//Return statements send the result of a function back to the part of the program that called it.
